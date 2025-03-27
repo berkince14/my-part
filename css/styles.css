@@ -21,6 +21,7 @@ body {
   width: 100%;
   max-width: 100%;
   margin: 0;
+  background-color: #fbfbfb;
 }
 
 :root {
@@ -36,7 +37,6 @@ body {
   width: 100%;
   max-width: 375px;
   height: 664px;
-  background-color: #fbfbfb;
   overflow: hidden;
 }
 
@@ -244,6 +244,9 @@ body {
   }
   .heading-p {
     padding-right: 400px;
+  }
+  .heading {
+    padding-right: 350px;
   }
   .reviews-customer-list {
     width: 100%;
